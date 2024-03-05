@@ -1,5 +1,5 @@
 # PLATO-S_PIZZA_SALES_ANALYSIS_USING-_POWER_BI
-Introduction
+# Introduction
 Plato Pizza is a fictional Greek-inspired pizza place in New Jersey, United states of America.Things are going OK here at Plato’s, but there’s room for improvement. We’ve been collecting transaction data for the past year, but really haven’t been able to put it to good use, Mario Maven (Manager, Plato’s Pizza) want the following business questions to be answered from the insight derived from their dataset
 
 What days do we tend to be busiest both for number of orders and income?
@@ -9,7 +9,7 @@ What’s our average order value?
 How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
 The data contains four different dataset that contains datas about their order history and pizza types, They are as follows
 
-About the dataset
+# About the dataset
 
 This dataset contains 4 tables in CSV format
 
